@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  IQ Test
-//
-//  Created by Denys Shumik on 02.03.2026.
-//
-
 import SwiftUI
 
 struct ContentView: View {
@@ -13,7 +6,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("IQ Test")
         }
         .padding()
     }
